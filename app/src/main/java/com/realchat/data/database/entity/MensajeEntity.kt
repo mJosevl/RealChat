@@ -1,4 +1,4 @@
-package com.sakhura.chatapp.data.database.entity
+package com.realchat.data.database.entity
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
