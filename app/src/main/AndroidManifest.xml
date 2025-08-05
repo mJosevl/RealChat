@@ -109,7 +109,7 @@
             android:name=".receivers.NotificationReceiver"
             android:exported="false">
             <intent-filter>
-                <action android:name="com.sakhura.chatapp.NOTIFICATION_CLICKED" />
+                <action android:name="com.RealChat.NOTIFICATION_CLICKED" />
             </intent-filter>
         </receiver>
 

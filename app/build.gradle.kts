@@ -6,11 +6,15 @@ plugins {
 }
 
 android {
-    namespace = "com.sakhura.chatapp"
+    namespace = "com.realchat.chatapp"
+    // Setting the compile SDK version to 35
+    // This is the latest stable version as of October 2023.
+    // It ensures compatibility with the latest Android features and APIs.
+    // Always check for the latest version before updating.
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.sakhura.chatapp"
+        applicationId = "com.realchat."
         minSdk = 24
         targetSdk = 35
         versionCode = 1
