@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.sakhura.chatapp"
+    namespace = "com.realchat"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.sakhura.chatapp"
+        applicationId = "com.realchat"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
