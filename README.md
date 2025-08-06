@@ -2,17 +2,18 @@
 
 > *"Construido con amor, copypaste y mucha ayuda de GPT"* 🤖
 
-Una aplicación de chat para Android que **realmente funciona** (la mayoría del tiempo). Desarrollada entre trozos de código copiados de Stack Overflow, conversaciones con ChatGPT y las lágrimas de un desarrollador que no sabía qué estaba haciendo.
+Una aplicación de chat para Android que **realmente funciona** (la mayoría del tiempo). Desarrollada entre trozos de código copiados de mis compañeros, conversaciones con ChatGPT y las lágrimas de un desarrollador que no sabía qué estaba haciendo.
 
 ---
 
 ## 🎭 La Historia Detrás del Código
 
 Este proyecto nació de la desesperación de un desarrollador que quería hacer algo cool pero no tenía idea de cómo. Después de:
-- 47 búsquedas en Stack Overflow
+- 47 búsquedas en los repos de mis compas
 - 23 conversaciones con ChatGPT
 - 12 crisis existenciales
 - 1 pizza completa
+- -4 litros de tecito
 
 Nació **RealChat** - porque "DefLatam_ChatApp" era demasiado largo para escribir.
 
