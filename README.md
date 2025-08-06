@@ -2,7 +2,7 @@
 
 > *"Construido con amor, copypaste y mucha ayuda de GPT"* 🤖
 
-Una aplicación de chat para Android que **realmente funciona** (la mayoría del tiempo). Desarrollada entre trozos de código copiados de Stack Overflow, conversaciones con ChatGPT y las lágrimas de un desarrollador que no sabía qué estaba haciendo.
+Una aplicación de chat para Android que **realmente funciona** (la mayoría del tiempo). Desarrollada entre trozos de código copiados de mis compañeros, conversaciones con ChatGPT y las lágrimas de un desarrollador que no sabía qué estaba haciendo.
 
 ---
 
