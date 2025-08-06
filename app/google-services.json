@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481198703666",
+    "project_id": "realchatpersonal",
+    "storage_bucket": "realchatpersonal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481198703666:android:4b751bb41d249735a4e82b",
+        "android_client_info": {
+          "package_name": "com.example.realchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh1tLikksZhdnfK289N-nNaAFScq2Xb3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
