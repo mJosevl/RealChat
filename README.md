@@ -13,6 +13,7 @@ Este proyecto nació de la desesperación de un desarrollador que quería hacer 
 - 23 conversaciones con ChatGPT
 - 12 crisis existenciales
 - 1 pizza completa
+- -4 litros de tecito
 
 Nació **RealChat** - porque "DefLatam_ChatApp" era demasiado largo para escribir.
 
