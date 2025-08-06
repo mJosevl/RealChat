@@ -9,7 +9,7 @@ Una aplicación de chat para Android que **realmente funciona** (la mayoría del
 ## 🎭 La Historia Detrás del Código
 
 Este proyecto nació de la desesperación de un desarrollador que quería hacer algo cool pero no tenía idea de cómo. Después de:
-- 47 búsquedas en Stack Overflow
+- 47 búsquedas en los repos de mis compas
 - 23 conversaciones con ChatGPT
 - 12 crisis existenciales
 - 1 pizza completa
